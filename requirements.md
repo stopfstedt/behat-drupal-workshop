@@ -4,7 +4,7 @@ layout: default
 # Requirements
 
 This is a hands-on workshop.  
-So please bring a laptop to the workshop, with the folllowing software libraries pre-installed:
+So please bring a laptop,  with the following software libraries pre-installed:
 
 * PHP v5.3.1+, with the `php` executable in your path.
 
