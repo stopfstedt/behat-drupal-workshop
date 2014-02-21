@@ -1,8 +1,7 @@
 ---
+layout: default
 ---
-# Workshop
+# Table of contents
 
-## Overview
+1. [Requirements](requirements.html)
 
-* [Requirements](requirements)
-* ...
