@@ -4,7 +4,7 @@ layout: default
 # Requirements
 
 This is a hands-on workshop.  
-So please bring a laptop,  with the following software libraries pre-installed:
+So please bring a laptop,  with the following software already installed:
 
 * PHP v5.3.1+, with the `php` executable in your path.
 
@@ -25,5 +25,6 @@ java -version
 ```
 
 * A text editor or IDE of your choice.
+* [Firefox](http://www.mozilla.org/en-US/firefox/new/)
 
 We'll go over installing Composer, Behat/Mink and Selenium as part of the workshop, so no need to set up these tools beforehand.
