@@ -20,7 +20,7 @@ java -version
 php -v
 ```
 
-* A git client. The command line client will do, Windows users are encouraged to install [msysgit](http://msysgit.github.io/). Please make sure that the `git` executable is in your path.
+* [Git](http://git-scm.com/). The command line client will do, Windows users are encouraged to install [msysgit](http://msysgit.github.io/). Please make sure that the `git` executable is in your path.
 
 ```
 git --version
