@@ -25,6 +25,6 @@ java -version
 ```
 
 * A text editor or IDE of your choice.
-* [Firefox](http://www.mozilla.org/en-US/firefox/new/)
+* The [Firefox](http://www.mozilla.org/en-US/firefox/new/) web browser.
 
 We'll go over installing Composer, Behat/Mink and Selenium as part of the workshop, so no need to set up these tools beforehand.
