@@ -1,6 +1,6 @@
 ---
 layout: default
-prev: diy.html
+prev_page: diy.html
 ---
 # Closing thoughts
 

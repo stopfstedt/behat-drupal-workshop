@@ -1,7 +1,7 @@
 ---
 layout: default
-next: diy.html
-prev: building_websites.html
+next_page: diy.html
+prev_page: building_websites.html
 ---
 
 # Module Development
