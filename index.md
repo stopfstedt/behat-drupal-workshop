@@ -18,5 +18,5 @@ This is the companion-website to the "BDD with Drupal" workshop offered by UCSF'
 
 ## Appendix
 
-I. [Requirements](requirements.html)
-II. [Additional Resources](further_reading.html)
+* [Requirements](requirements.html)
+* [Additional Resources](further_reading.html)
