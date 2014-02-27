@@ -1,7 +1,7 @@
 ---
 layout: default
-next: le_fin.html
-prev: drermahgerd.html
+next_page: le_fin.html
+prev_page: module_development.html
 ---
 
 # "Time to do it yourself..."

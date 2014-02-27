@@ -1,7 +1,7 @@
 ---
 layout: default
-next: behat_and_drupal.html
-prev: introduction.html
+next_page: behat_and_drupal.html
+prev_page: introduction.html
 ---
 
 # Behat

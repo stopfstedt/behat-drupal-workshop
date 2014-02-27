@@ -1,6 +1,6 @@
 ---
 layout: default
-next: introduction.html
+next_page: introduction.html
 ---
 # Welcome
 
