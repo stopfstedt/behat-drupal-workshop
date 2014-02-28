@@ -32,7 +32,7 @@ prev_page: introduction.html
     And something else we can check happens too
     ```
 
-2. Implement up your stories by implementing method (_Step Definitions_).
+2. Back up your stories with code (_Step Definitions_).
 
     ```php
     <?php
