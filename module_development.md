@@ -13,7 +13,7 @@ Cover your modules with functional tests using Behat, if applicable.
 * [ERMAHGERD ERTS DRERPERL!](https://github.com/stopfstedt/drermahgerd)
 * Do not use this, unless you have _Bad Judgement!_
 * Continuous integration:
-    - _Continously_ build and test your code on check-in
+    - _Continuously_ build and test your code on check-in
     - Notification on failure
 
 ## The Players
