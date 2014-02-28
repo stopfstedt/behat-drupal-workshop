@@ -6,13 +6,13 @@ prev_page: introduction.html
 
 # Behat
 
-## What it is
+## What It Is
 
 * BDD framework for in PHP
 * Open Source (MIT License)
 * Inspired by [Cucumber](http://cukes.info/)
 
-## How to use it
+## How To Use It
 
 1. Write your user stories ( _Features_ and _Scenarios_ ) in a human-readable format ( _Gerkin language_ ).
 
@@ -47,7 +47,7 @@ prev_page: introduction.html
 
 3. Run it.
 
-## The stack
+## The Stack
 
 * [Behat](http://behat.org/)
 * [Mink](http://mink.behat.org/)
