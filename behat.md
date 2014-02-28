@@ -6,7 +6,6 @@ prev_page: introduction.html
 
 # Behat
 
-
 ## What it is
 
 * BDD framework for in PHP
@@ -50,7 +49,7 @@ prev_page: introduction.html
 
 ## The stack
 
-* Behat
+* [Behat](http://behat.org/)
 * [Mink](http://mink.behat.org/)
     * sister project to Behat
     * provides web driver integration for Behat
