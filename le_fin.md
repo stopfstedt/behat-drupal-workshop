@@ -24,3 +24,5 @@ prev_page: diy.html
 * Behat v3 currently in Beta
 * Adoption by Drupal Contrib?
 * Continuous Integration and the Aquia Shared Hosting Environment
+
+_What are your thoughts?_
