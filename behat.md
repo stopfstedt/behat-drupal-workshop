@@ -6,6 +6,9 @@ prev_page: introduction.html
 
 # Behat
 
+!["Bee-Hat"]( assets/neprakta.png "Bee-Hat")
+_[image source: "M&auml;nner in Harnisch" by Jiří Winter Neprakta; Artia, Prague &copy; 1972 ]_
+
 ## What It Is
 
 * BDD framework for in PHP
