@@ -6,6 +6,8 @@ prev_page: behat_and_drupal.html
 
 # Building Websites
 
+Implement your website _according to spec_.
+
 ## Case Study: ITS Website Migration
 
 * [UCSF's ITS Homepage](http://it.ucsf.edu)
