@@ -6,6 +6,11 @@ prev_page: index.html
 
 # Behavior-Driven Development (BDD)
 
+> BDD is an evolution of test-driven development (TDD) and acceptance-test driven design, and is intended to make these practices more accessible and intuitive to newcomers and experts alike.
+> It shifts the vocabulary from being test-based to behaviour-based, and positions itself as a design philosophy.
+> <cite>[JBehave Project Homepage][1]</cite>
+
+[1]:http://jbehave.org/
 
 ## What It Is
 
@@ -33,6 +38,6 @@ A BDD framework will:
 
 ## Learn More
 
-[Dan North: Introducting BDD](http://dannorth.net/introducing-bdd/)
-[Agile Coaching: BDD in a nutshell](http://agilecoach.typepad.com/agile-coaching/2012/03/bdd-in-a-nutshell.html)
-[Wikipedia: Behavior-driven development](http://en.wikipedia.org/wiki/Behavior-driven_development)
+* [Dan North: Introducting BDD](http://dannorth.net/introducing-bdd/)
+* [Agile Coaching: BDD in a nutshell](http://agilecoach.typepad.com/agile-coaching/2012/03/bdd-in-a-nutshell.html)
+* [Wikipedia: Behavior-driven development](http://en.wikipedia.org/wiki/Behavior-driven_development)
