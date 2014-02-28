@@ -1,7 +1,6 @@
 ---
 layout: default
-next_page: le_fin.html
-prev_page: module_development.html
+prev_page: le_fin.html
 ---
 
 # "Time to do it yourself..."
@@ -18,7 +17,7 @@ First-timers may start by checking out the [Drupal Behat Boilerplate](https://gi
 * Write a test feature that covers a custom Content Type.
 * Write a test feature that covers a form.
 
-### Tips
+## Tips
 
 * Map out page regions in the Behat configuration first.
 * DRY: Explore the step definitions provided by Mink `Behat\MinkExtension\Context\MinkContext.php` and the Drupal extension `Drupal\DrupalExtension\Context\DrupalContext.php ` before rolling your own.
