@@ -1,6 +1,6 @@
 ---
 layout: default
-next_page: diy.html
+next_page: le_fin.html
 prev_page: building_websites.html
 ---
 
