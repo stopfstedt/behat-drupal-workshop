@@ -11,7 +11,7 @@ prev_page: behat_and_drupal.html
 * [UCSF's ITS Homepage](http://it.ucsf.edu)
 * powered by Views, Context, Nodes, CCK, Blocks, Taxonomy
 * Migration from Drupal 6 to 7 _as-is_
-* _But, where is the spec?!_
+* _But, where is the original site spec?!_
 
 ## Approach
 
