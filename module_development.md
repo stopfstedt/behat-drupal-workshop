@@ -1,6 +1,6 @@
 ---
 layout: default
-next_page: le_fin.html
+next_page: fin.html
 prev_page: building_websites.html
 ---
 

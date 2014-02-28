@@ -1,6 +1,6 @@
 ---
 layout: default
-prev_page: le_fin.html
+prev_page: fin.html
 ---
 
 # "Time to do it yourself..."
