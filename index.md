@@ -1,6 +1,6 @@
 ---
 layout: default
-next_page: introduction.html
+next_page: requirements.html
 ---
 # Welcome
 
