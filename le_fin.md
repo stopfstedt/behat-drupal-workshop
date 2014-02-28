@@ -17,7 +17,7 @@ prev_page: diy.html
 * Bugs
 * ZombieJS driver - dead in the water?
 * Selenium/PhantomJS "runs away"
-* JavaScript handling
+* Driver inconsistencies
 
 ## Looking Ahead
 
