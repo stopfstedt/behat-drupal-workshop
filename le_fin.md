@@ -1,8 +1,9 @@
 ---
 layout: default
-prev_page: diy.html
+next_page: diy.html
+prev_page: module_development.html
 ---
-# Closing thoughts
+# Closing Thoughts
 
 ## The Good
 
@@ -24,5 +25,3 @@ prev_page: diy.html
 * Behat v3 currently in Beta
 * Adoption by Drupal Contrib?
 * Continuous Integration and the Aquia Shared Hosting Environment
-
-_What are your thoughts?_
