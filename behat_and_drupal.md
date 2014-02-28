@@ -34,3 +34,7 @@ prev_page: behat.html
 ## Extension via subcontexts
 
 * Define step-definitions in `*.behat.inc`
+
+## Learn More
+
+* [Behat Drupal Extension Documentation](http://dspeak.com/drupalextension/)
