@@ -14,7 +14,7 @@ Cover your modules with functional tests using Behat, if applicable.
 * Do not use this, unless you have _Bad Judgement!_
 * Continuous integration:
     - _Continuously_ build and test your code on check-in
-    - Notification on failure
+    - Notification on failure (and/or success)
 
 ## The Players
 
