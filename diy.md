@@ -23,7 +23,7 @@ First-timers may start by checking out the [Drupal Behat Boilerplate](https://gi
 ### Tips
 
 * Map out page regions in the Behat configuration first.
-* DRY: Explore the step definitions provided by Mink `vendor/behat/Behat\MinkExtension\Context\MinkContext.php` and the Drupal extension `Drupal\DrupalExtension\Context\DrupalContext.php ` before rolling your own.
+* DRY: Explore the step definitions provided by Mink `Behat\MinkExtension\Context\MinkContext.php` and the Drupal extension `Drupal\DrupalExtension\Context\DrupalContext.php ` before rolling your own.
 
 ## Discussion
 
