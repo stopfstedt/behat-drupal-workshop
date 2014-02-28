@@ -13,7 +13,7 @@ prev_page: behat.html
     - subcontext discovery
     - step definitions for common scenarios
 
-## The three drivers
+## The Drivers
 
 * Blackbox
     * assumes anonymous user
@@ -31,7 +31,7 @@ prev_page: behat.html
 
 [Comparison matrix](http://dspeak.com/drupalextension/drivers.html)
 
-## Extension via subcontexts
+## Extension via Subcontexts
 
 * Define step-definitions in `*.behat.inc`
 
