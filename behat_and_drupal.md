@@ -6,10 +6,7 @@ prev_page: behat.html
 
 # Behat and Drupal
 
-## Behat Drupal Extension
-
-* Project Home on Drupal.org: https://drupal.org/project/drupalextension
-* Documentation: http://dspeak.com/drupalextension/
+* [Behat Drupal Extension](https://drupal.org/project/drupalextension)
 * Drupal-specific additions:
     - region mapping/region scope
     - text mapping
