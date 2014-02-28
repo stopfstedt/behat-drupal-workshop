@@ -11,6 +11,7 @@ prev_page: introduction.html
 * BDD framework for in PHP
 * Open Source (MIT License)
 * Inspired by [Cucumber](http://cukes.info/)
+* Behat test are _functional tests_
 
 ## How To Use It
 
