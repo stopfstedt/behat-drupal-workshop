@@ -23,9 +23,9 @@ Cover your modules with functional tests using Behat, if applicable.
 * [SauceLabs](https://saucelabs.com/) for running in-browser Behat tests
 
 
-## Show time
+## Demo Time
 
-* the `.travis.yml` [build file](https://github.com/stopfstedt/drermahgerd/blob/master/.travis.yml)
+* `.travis.yml` [build file](https://github.com/stopfstedt/drermahgerd/blob/master/.travis.yml)
 * Travis CI [build status page](https://travis-ci.org/stopfstedt/drermahgerd/builds/19532025)
 * Saucelabs [test session details](https://saucelabs.com/tests/65ab9910ada54c4e813667addd0e8c90)
 
