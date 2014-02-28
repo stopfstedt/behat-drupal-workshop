@@ -23,14 +23,14 @@ Implement your website _according to spec_.
 4. Run _the same_ feature tests against D7 site
 5. _Success!_
 
-## What to test
+## What To Test
 
 * homepage _[done]_
 * common page elements (navigation, footer, banner) _[done]_
 * public views (How To, Services Lists) _[todo]_
 * exemplary node pages - _[todo]_
 
-## Show time
+## Hands-on Demo
 
 1. Follow the [install instructions](https://github.com/ucsf-drupal/behat_it_website/blob/master/README.md)
     - Skip the steps for setting up PhantomJS
