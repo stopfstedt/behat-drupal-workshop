@@ -31,7 +31,7 @@ Cover your modules with functional tests using Behat, if applicable.
 
 Questions? Thoughts?
 
-## Resources:
+## Learn More
 
 * [Travis CI: Getting Started](http://docs.travis-ci.com/user/getting-started/)
 * [Drupal.org: Travis-CI Drupal Module Example](https://drupal.org/project/travis_ci_drupal_module_example)
