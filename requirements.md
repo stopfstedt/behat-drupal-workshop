@@ -27,6 +27,7 @@ php -v
     * `curl`
     * `mbstring`
     * `xml`
+    * `openssl`
 
 ```
 php -m
